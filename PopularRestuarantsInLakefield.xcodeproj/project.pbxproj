@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				0CF6F47E275560BF00FC0546 /* PopularRestuarantsInLakefieldApp.swift */,
-				0CF6F480275560BF00FC0546 /* ContentView.swift */,
+				0CF6F48C275560EA00FC0546 /* Model */,
+				0CF6F48D275560F100FC0546 /* Views */,
 				0CF6F482275560DF00FC0546 /* Assets.xcassets */,
 				0CF6F484275560DF00FC0546 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				0CF6F485275560DF00FC0546 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0CF6F48C275560EA00FC0546 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0CF6F48D275560F100FC0546 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0CF6F480275560BF00FC0546 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
